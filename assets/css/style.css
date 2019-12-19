@@ -879,6 +879,10 @@ select option {
     background: linear-gradient(90deg, rgba(78,84,200,1) 0%, rgba(143,148,251,1) 100%); /* w3c */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4e54c8', endColorstr='#8f94fb',GradientType=1 ); /* ie6-9 */ 
 }
+.bg_gd_host{
+	background: url('../images/bg_host.jpg')  center center no-repeat;
+	background-size: cover;
+}
 .bg_gd_stripe {
 	background: -moz-linear-gradient(0deg, rgba(11,117,253,1) 0%, rgba(33,237,236,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(11,117,253,1)), color-stop(100%, rgba(33,237,236,1))); /* safari4+,chrome */

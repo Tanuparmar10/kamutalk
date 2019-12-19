@@ -11,7 +11,7 @@
 <meta name="keywords" content="">
 
 <!-- SITE TITLE -->
-<title> Codegenius - Creative responsive app landing page HTML Template</title>
+<title> Kamu Talk India</title>
 <!-- Favicon Icon -->
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 <!-- Animation CSS -->
@@ -233,24 +233,16 @@ to your friend and relative sitting in any corner of the world.</p>
             </div>
             <div class="col-lg-6 pl-lg-5 col-md-6 col-sm-12 animation" data-animation="fadeInRight" data-animation-delay="0.1s">
                 <div class="heading_s2">
-                    <h3>Register Now </h3>
+                    <h3>Register Now for Super Admin  </h3>
                 </div>
-                <form>
-                    <div class="form-group">
-                        <label for="exampleInputEmail1">Email address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                    </div>
-                    <div class="form-group">
-                        <label for="exampleInputPassword1">Password</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                        <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </form>
+                <ul class="list-unstyled mt-3 mb-4">
+                        <li>10 users included</li>
+                        <li>2 GB of storage</li>
+                        <li>Email support</li>
+                        <li>Help center access</li>
+                    </ul>
+                    <a target="_blank" class="btn btn-default app_btn btn-radius animation" href="https://rzp.io/l/LL29xKx">Register Now</a>
+            
                   
             </div>
         </div>
@@ -267,10 +259,10 @@ to your friend and relative sitting in any corner of the world.</p>
                     <h2>Download App Now!</h2>
                 </div>
                 <div class="text_white mb-4 animation" data-animation="fadeInUp" data-animation-delay="0.3s">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore dolore magna aliqua.</p>
+                    <p>Download the app from play store</p>
                 </div>
-                <a href="#" class="btn btn-default app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s"><i class="ion-social-apple"></i><span>Download on The</span><br> App Store </a>
-                <a href="#" class="btn btn-outline-white app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s"><i class="ion-social-android"></i><span>Available on The</span><br> Google Play </a>
+                <!-- <a href="#" class="btn btn-default app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s"><i class="ion-social-apple"></i><span>Download on The</span><br> App Store </a> -->
+                <a href="https://play.google.com/store/apps/details?id=com.voice_chat_mobile" class="btn btn-outline-white app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s"><i class="ion-social-android"></i><span>Available on The</span><br> Google Play </a>
             </div>
         </div>
     </div>
@@ -278,105 +270,118 @@ to your friend and relative sitting in any corner of the world.</p>
 <!-- END SECTION APP DOWNLOAD -->
 
 
-<!-- START SECTION CONTACT -->
-<section id="contact" class="small_pt">
-	<div class="container">
-    	<div class="row justify-content-center">
-            <div class="col-lg-6 col-md-8 text-center">
-                <div class="heading_s3 mb-md-3 text-center animation" data-animation="fadeInUp" data-animation-delay="0.2s">
-                    <h2>Get In touch</h2>
+
+<section id="pricing" class="small_pb">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-9 ">
+                <div class="heading_s2 heading_dark mb-md-3 text-center animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                    <h2>VIP Membership Plan</h2>
                 </div>
-                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit massa enim. Nullam id varius nunc id varius nunc.</p>
+                <p class="text-center animation" data-animation="fadeInUp" data-animation-delay="0.4s">Please register for vip membership.</p>
             </div>
         </div>
         <div class="row">
-        	<div class="col-12">
-            	<div class="clearfix small_divider"></div>
+            <div class="col-12">
+                <div class="clearfix small_divider"></div>
             </div>
         </div>
         <div class="row">
-        	<div class="col-md-6">
-            	<div class="field_form form_style3 animation mb-4 mb-md-0" data-animation="fadeInUp" data-animation-delay="0.6s">
-                    <form method="post" name="enq">
-                        <div class="row">
-                            <div class="form-group col-md-12">
-                                <input required="required" placeholder="Enter Name *" id="first-name" class="form-control" name="name" type="text">
-                             </div>
-                            <div class="form-group col-md-12">
-                                <input required="required" placeholder="Enter Email *" id="email" class="form-control" name="email" type="email">
-                            </div>
-                            <div class="form-group col-md-12">
-                                <input placeholder="Enter Subject" id="subject" class="form-control" name="subject" type="subject">
-                            </div>
-                            <div class="form-group col-md-12">
-                                <textarea required="required" placeholder="Message *" id="description" class="form-control" name="message" rows="4"></textarea>
-                            </div>
-                            <div class="col-md-12">
-                                <button type="submit" title="Submit Your Message!" class="btn btn-outline-default btn-radius" id="submitButton" name="submit" value="Submit">Submit</button>
-                            </div>
-                            <div class="col-lg-12">
-                                <div id="alert-msg" class="alert-msg text-center"></div>
-                            </div>
+            <div class="col-md-4 mb-4">
+                <div class="pricing_box pricing_style2 animation" data-animation="fadeInRight" data-animation-delay="0.7s">
+                    <div class="pr_title border-bottom bg-white">
+                        <h4>VIP Silver</h4>
+                        <div class="price_tage">
+                            <h2>$199</h2>
+                            <span>3 MONTH</span>
                         </div>
-                	</form>		
+                    </div>
+                    <div class="pr_content pt-3">
+                        <ul class="list_none pr_list">
+                            <li>6 Digits UID</li>
+                            <li>20,000 crytals</li>
+                            <li>3 month validity</li>
+                            <li>Free Updates</li>
+                            <li>Advanced Options</li>
+                            <li>24/7 Support</li>
+                        </ul>
+                    </div>
+                    <div class="pr_footer">
+                        <a href="https://rzp.io/l/GmFDTQS" class="btn btn-outline-default btn-radius">Buy Now</a>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6">
-            	<div class="map_box animation" data-animation="fadeInUp" data-animation-delay="0.6s">
-            		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58869.42912567907!2d88.33414606727185!3d22.75278538633393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89aefcc6fe3a7%3A0x6a6d434ac504dbc5!2sBarrackpore%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1574908952554!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <div class="col-md-4 mb-4">
+                <div class="pricing_box pricing_style2 highlight_box animation" data-animation="fadeInUp" data-animation-delay="0.9s">
+                    <div class="pr_title bg_gd_moonpurple text_white">
+                        <h4>VIP Gold</h4>
+                        <div class="price_tage">
+                            <h2>$215</h2>
+                            <span>6 MONTH</span>
+                        </div>
+                    </div>
+                    <div class="pr_content pt-3">
+                        <ul class="list_none pr_list">
+                            <li>5 Digits UID</li>
+                            <li>30,000 crytals</li>
+                            <li>6 month validity</li>
+                            <li>Free Updates</li>
+                            <li>Advanced Options</li>
+                            <li>24/7 Support</li>
+                        </ul>
+                    </div>
+                    <div class="pr_footer">
+                        <a href="https://rzp.io/l/bPyHGw8" class="btn btn-default btn-md btn-radius">Buy Now</a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-        	<div class="col-12">
-            	<div class="clearfix large_divider"></div>
-            </div>
-        </div>
-        <div class="row">
-        	<div class="col-md-12">
-            	<div class="small_padding contact_box">
-                    <div class="row justify-content-center">
-                        <div class="col-md-4 mb-md-0 mb-3 text-center">
-                            <div class="icon_box icon_box_style_1 animation" data-animation="fadeInUp" data-animation-delay="0.3s">
-                                <div class="box_icon mb-3">	
-                                    <i class="ti-location-pin"></i>
-                                </div>
-                                <div class="icon_box_content">
-                                    <h5 class="text-uppercase py-md-2">Address</h5>
-                                    <p>123 Street, New South London , UK</p>
-                                </div>
-                            </div>
+            <div class="col-md-4 mb-4">
+                <div class="pricing_box pricing_style2 animation" data-animation="fadeInLeft" data-animation-delay="0.7s">
+                    <div class="pr_title border-bottom bg-white">
+                        <h4>VIP Platinum</h4>
+                        <div class="price_tage">
+                            <h2>$343</h2>
+                            <span>12 MONTH</span>
                         </div>
-                        <div class="col-md-4 mb-md-0 mb-3 text-center">
-                            <div class="icon_box icon_box_style_1 animation" data-animation="fadeInUp" data-animation-delay="0.6s">
-                                <div class="box_icon mb-3">	
-                                    <i class="ti-mobile"></i>
-                                </div>
-                                <div class="icon_box_content">
-                                    <h5 class="text-uppercase py-md-2">Phone</h5>
-                                    <p>123-456-7890</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 mb-md-0 mb-3 text-center">
-                            <div class="icon_box icon_box_style_1 animation" data-animation="fadeInUp" data-animation-delay="0.9s">
-                                <div class="box_icon mb-3">	
-                                    <i class="ti-email"></i>
-                                </div>
-                                <div class="icon_box_content">
-                                    <h5 class="text-uppercase py-md-2">Email</h5>
-                                    <p>info@sitename.com</p>
-                                </div>
-                             </div>
-                        </div>
+                    </div>
+                    <div class="pr_content pt-3">
+                        <ul class="list_none pr_list">
+                            <li>4 Digits UID</li>
+                            <li>45,000 crytals</li>
+                            <li>1 Year validity</li>
+                            <li>Free Updates</li>
+                            <li>Advanced Options</li>
+                            <li>24/7 Support</li>
+                        </ul>
+                    </div>
+                    <div class="pr_footer">
+                        <a href="https://rzp.io/l/JTlu2uN" class="btn btn-outline-default btn-md btn-radius">Buy Now</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- END SECTION CONTACT -->
+<!-- START PRICING TABLE -->
 
+
+<!-- END SECTION CONTACT -->
+<section id="download" class="cta_section bg_gd_host px-0">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-8 text-center"> 
+                <div class="heading_s2 heading_light text-center animation" data-animation="fadeInUp" data-animation-delay="0.2s"> 
+                    <h2>Get Host Membership</h2>
+                </div>
+                <div class="text_white mb-4 animation" data-animation="fadeInUp" data-animation-delay="0.3s">
+                    <p>get your host membership</p>
+                </div>
+                <!-- <a href="#" class="btn btn-default app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s"><i class="ion-social-apple"></i><span>Download on The</span><br> App Store </a> -->
+                <a href="https://rzp.io/l/nVAVxLB" target="_blank" class="btn btn-default app_btn btn-radius animation" data-animation="fadeInUp" data-animation-delay="0.5s">Register Now </a>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include('support_files/footer.php'); ?>
 
 <a href="#" class="scrollup" style="display: none;"><i class="ion-ios-arrow-up"></i></a> 

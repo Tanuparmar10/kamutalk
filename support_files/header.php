@@ -38,7 +38,7 @@
                         <a class="nav-link page-scroll" href="#services">Services</a>
                     </li>
                     <li>
-                        <a class="nav-link page-scroll" href="#contact">Contact</a>
+                        <a class="nav-link page-scroll" href="#pricing">Memberships</a>
                     </li>
                 </ul>
             </div>
