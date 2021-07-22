@@ -8,3 +8,32 @@ steps:
     'gcr.io/$PROJECT_ID/${_CLOUD_RUN_SERVICE}',
     '.'
     ]
+ # push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/$PROJECT_ID/${_CLOUD_RUN_SERVICE}']
+  # Deploy container image to Cloud Run
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: [
+    'beta',
+    'run',
+    'deploy',
+    '--allow-unauthenticated',
+    '${_CLOUD_RUN_SERVICE}',
+    '--image',
+    'gcr.io/$PROJECT_ID/${_CLOUD_RUN_SERVICE}',
+    '--region',
+    'us-central1',
+    '--platform',
+    'managed',
+    '--memory',
+    '4Gi'
+    
+    
+    ]
+
+images:
+- gcr.io/$PROJECT_ID/${_CLOUD_RUN_SERVICE}
+options:
+    substitution_option: 'ALLOW_LOOSE'
+
+
