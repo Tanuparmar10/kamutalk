@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-phsion<head>
+phsi<head>
 <!-- Meta -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
