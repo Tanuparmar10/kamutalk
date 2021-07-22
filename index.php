@@ -524,7 +524,7 @@ to your friend and relative sitting in any corner of the world.</p>
 <script src='assets/js/jquery.dd.min.js'></script>
 <!-- scripts js --> 
 <script src="assets/js/scripts.js"></script>
-
+Kamutalk is here
 </body>
 
 </html>
