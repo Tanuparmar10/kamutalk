@@ -10,7 +10,7 @@
 <meta name="keywords" content="">
 
 <!-- SITE TITLE -->
-<title> Kamu Talk India Test</title>
+<title> Kamu Talk India</title>
 <!-- Favicon Icon -->
 <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 <!-- Animation CSS -->
