@@ -482,7 +482,7 @@ to your friend and relative sitting in any corner of the world.</p>
                   <div class="bottom_footer border_top_tran">
                       <div class="row">
                           <div class="col-md-12">
-                                <p class="copyright m-md-0 text-center">© 2019 All Rights Reserved by Codegenius.</p>
+                                <p class="copyright m-md-0 text-center">© 2019 All Rights Reserved by Kamutalk.</p>
                             </div>
                         </div>
                     </div>
