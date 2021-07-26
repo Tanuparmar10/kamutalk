@@ -461,7 +461,7 @@ to your friend and relative sitting in any corner of the world.</p>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 animation" data-animation="fadeInUp" data-animation-delay="0.5s">
                     <h6 class="widget_title">Subscribe Newsletter</h6>
-                    <p>Contrary to popular belief of lorem Ipsm Latin amet ltin from consectetur industry.</p>
+                   <!-- <p>Contrary to popular belief of lorem Ipsm Latin amet ltin from consectetur industry.</p>-->
                     <div class="newsletter_form">
                         <form> 
                             <div class="rounded_input">
