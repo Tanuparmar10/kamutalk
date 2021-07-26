@@ -437,7 +437,7 @@ to your friend and relative sitting in any corner of the world.</p>
                   <div class="footer_logo">
                       <a href="#home_section"><img alt="logo" src="demo-mobile-app/images/app-logo_white.png"></a>
                     </div>
-                    <p>Phasellus blandit massa enim. elit id varius nunc. Lorems ipsum dolor sit amet, consectetur industry.</p>
+                    <p>"Unique Platform for Entertainment & Earning" KAMUTALK OPC PVT. LTD. Kolkata - India (700040)</p>
                     <ul class="list_none footer_social">
                       <li><a href="www.facebook.com/kamutalkofficial"><i class="ion-social-facebook"></i></a></li>
                         <!--<li><a href="#"><i class="ion-social-twitter"></i></a></li>
