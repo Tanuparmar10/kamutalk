@@ -153,7 +153,7 @@ to your friend and relative sitting in any corner of the world.</p>
             </div>
             <div class="col-lg-6 pl-lg-5 col-md-6 col-sm-12 animation" data-animation="fadeInRight" data-animation-delay="0.1s">
             	<div class="heading_s2">
-                	<h3>Aobut Us</h3>
+                	<h3>About Us</h3>
                 </div>
                 <p>You will get to see some unique facilities in this application, 
                     which will be somewhat different from the rest of the running application.
@@ -439,31 +439,31 @@ to your friend and relative sitting in any corner of the world.</p>
                     </div>
                     <p>Phasellus blandit massa enim. elit id varius nunc. Lorems ipsum dolor sit amet, consectetur industry.</p>
                     <ul class="list_none footer_social">
-                      <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                        <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                      <li><a href="www.facebook.com/kamutalkofficial"><i class="ion-social-facebook"></i></a></li>
+                        <!--<li><a href="#"><i class="ion-social-twitter"></i></a></li>
                         <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
-                        <li><a href="#"><i class="ion-social-youtube-outline"></i></a></li>
-                        <li><a href="#"><i class="ion-social-instagram-outline"></i></a></li>
+                        <li><a href="#"><i class="ion-social-youtube-outline"></i></a></li>-->
+                        <li><a href="www.facebook.com/kamutalkofficial"><i class="ion-social-instagram-outline"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 animation" data-animation="fadeInUp" data-animation-delay="0.3s">
                   <h6 class="widget_title">USEFUL LINKS</h6>
                     <ul class="list_none widget_links_style1">
-                        <li><a href="#">How it Works</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Pricing</a></li>
-                        <li><a href="#">Testimonial</a></li>
-                        <li><a href="#">FAQ</a></li>
-                        <li><a href="#">Term Conditions</a></li>
+                        <!--<li><a href="#">How it Works</a></li>-->
+                        <li><a href="index.php#about">About Us</a></li>
+                        <li><a href="index.php#services">Services</a></li>
+                        <li><a href="index.php#pricing">Pricing</a></li>
+                       <!-- <li><a href="#">Testimonial</a></li>-->
+                        <!--<li><a href="#">FAQ</a></li>-->
+                        <li><a href="terms.html">Term Conditions</a></li>
                         <li><a href="privacypolicy.html">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-6 mt-4 mt-lg-0 animation" data-animation="fadeInUp" data-animation-delay="0.5s">
                     <h6 class="widget_title">Subscribe Newsletter</h6>
-                   <!-- <p>Contrary to popular belief of lorem Ipsm Latin amet ltin from consectetur industry.</p>-->
+                    <!--<p>Contrary to popular belief of lorem Ipsm Latin amet ltin from consectetur industry.</p>-->
                     <div class="newsletter_form">
-                        <form> 
+                        <form>
                             <div class="rounded_input">
                               <input type="text" required="" placeholder="Enter Email Address">
                             </div>
@@ -482,7 +482,7 @@ to your friend and relative sitting in any corner of the world.</p>
                   <div class="bottom_footer border_top_tran">
                       <div class="row">
                           <div class="col-md-12">
-                                <p class="copyright m-md-0 text-center">© 2019 All Rights Reserved by Codegenius.</p>
+                                <p class="copyright m-md-0 text-center">© 2019 All Rights Reserved by Kamutalk.</p>
                             </div>
                         </div>
                     </div>
